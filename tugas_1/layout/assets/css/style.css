@@ -1,0 +1,102 @@
+body {
+	background-color: #fff;
+}
+
+.container {
+	width: 1200px;
+	margin: auto;
+	border: 2px solid #2f8fe5;
+	background: #cfe9f1;
+
+}
+
+.header {
+	margin-bottom: 18px;
+}
+
+.menu a {
+	padding: 10px;
+	background: #468aef;
+	color: #000;
+	text-decoration: none;
+}
+
+.menu a:hover {
+	background: #7a7979;
+	color: #000;
+}
+
+.main{
+	padding: 20px;
+}
+
+table{
+	border: 2px solid#000;
+	border-collapse: collapse;
+	padding: 10px;
+	margin-top: 20px;
+}
+
+table th{
+	border: 5px solid #ccc;
+	background-color: #056b04;
+	color: #fff;
+}
+
+table td{
+	border: 1px solid #ccc;
+	padding: 10px;
+}
+
+.tambah a {
+	padding: 5px;
+	background: #6e6d70;
+	color: #fff;
+	text-decoration: none;
+}
+
+.login {
+	background-color: #94ccf7;
+	border-radius: 20px;
+	width: 350px;
+	height: 280px;
+	margin-left: 500px;
+	margin-top: 140px; 
+}
+
+.input-login {
+	width: 320px;
+	height: 35px;
+	border-radius: 20px;
+	border: 20%;
+	border-color: #0c5c89; 
+	background-color: #b8bcbf;
+}
+
+.form-group {
+	padding: 18px;
+	margin-top: -20px;
+}
+
+.label-login {
+	color: #000;
+}
+
+.btn-login {
+	width: 125px;
+	height: 25px;
+	background-color: #3473e8;
+	color: #000;
+	border-radius: 10px;
+	border: 2px;
+	margin-left: 95px;
+	margin-top: 15px;
+}
+
+.btn-login:hover {
+	background-color: #9d9ca0;
+}
+
+a {
+	text-decoration: none;
+}
